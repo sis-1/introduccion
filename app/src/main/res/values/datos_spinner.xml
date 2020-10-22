@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Tierra</item>
+        <item>Venus</item>
+        <item>Pluton</item>
+        <item>Marte</item>
+    </string-array>
+</resources>

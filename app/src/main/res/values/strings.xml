@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">introduccion</string>
+    <string name="datos">-----</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="todo">TODO</string>
+    <string name="si">SI</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="no">NO</string>
+    <string name="_3">3</string>
+</resources>
