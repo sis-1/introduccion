@@ -92,10 +92,10 @@
 
             <RadioButton
                 android:id="@+id/radioButton"
-                android:layout_width="match_parent"
+                android:layout_width="412dp"
                 android:layout_height="wrap_content"
-                android:text="@string/_1"
-                android:onClick="onRadioButtonClicked"/>
+                android:onClick="onRadioButtonClicked"
+                android:text="@string/_1" />
 
             <RadioButton
                 android:id="@+id/radioButton2"
